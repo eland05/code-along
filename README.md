@@ -1,0 +1,3 @@
+This is a learn.co lesson/activity.  I can not get it to commit and push the changes I am making in the learn IDE to gitHub. 
+I don't feel like I'm doing this correctly...
+why wont this commit?
